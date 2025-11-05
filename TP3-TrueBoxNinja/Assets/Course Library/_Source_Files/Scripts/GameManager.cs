@@ -7,13 +7,13 @@ using UnityEngine.Serialization;
 
 public class GameManager : MonoBehaviour
 {
-    float spawnRate = 1f;
+    public float spawnRate = 1f;
     public List<GameObject> targets;
 
     public TextMeshProUGUI scoreText;
 
     public int score = 0;
-    private int nLives = 3;
+    public int nLives = 3;
 
     public static GameManager instance;
 
@@ -25,21 +25,43 @@ public class GameManager : MonoBehaviour
 
     public AudioSource gameMusic;
 
+    public PausePanel pausePanel;
+
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine(SpawnTargets());
+        
 
         instance = this;
-        
+        gameOverScreen.SetActive(false);
+
+        if (gameMusic != null)
+        {
+            gameMusic.volume = GameSettings.MusicVolume;
+        }
+        if (SaveSystem.IsLoadingGame)
+            {
+            
+            GameState loadedState = SaveSystem.LoadStateFromSave();
+            if (loadedState != null)
+            {
+                score = loadedState.score;
+                nLives = loadedState.lives;
+                spawnRate = loadedState.difficulty;
+            }
+        }
+
+        StartCoroutine(SpawnTargets());
         UpdateScore();
         UpdateLives();
-        gameOverScreen.SetActive(false);
+        
     }
 
     public void RestartGame()
     {
-        SceneManager.LoadScene( SceneManager.GetActiveScene().name );
+        //SceneManager.LoadScene( SceneManager.GetActiveScene().name );
+        SaveSystem.IsLoadingGame = false;
+        SceneNavigator.StartGame();
 
     }
 
@@ -52,10 +74,25 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            Time.timeScale = 1f - Time.timeScale;
-        } 
+            
+            if (gameIsActive && pausePanel != null)
+            {
+                
+                if (pausePanel.gameObject.activeSelf)
+                {
+                    pausePanel.ClosePanel();
+                    
+                }
+                else
+                {
+                    pausePanel.OpenPanel();
+                   
+                }
+            }
+        }
+        
     }
 
     public void SetPause(bool val = true)

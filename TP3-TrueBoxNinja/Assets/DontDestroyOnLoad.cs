@@ -1,0 +1,23 @@
+using UnityEngine;
+using UnityEngine.SceneManagement; 
+
+public class DontDestroyOnLoad : MonoBehaviour
+{
+    
+    private static bool created = false;
+
+    void Awake()
+    {
+        
+        if (!created)
+        {
+            DontDestroyOnLoad(gameObject);
+            created = true;
+            SceneManager.LoadScene("Menu");
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+}

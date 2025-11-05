@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.EventSystems;
 public class Target : MonoBehaviour
 {
     private float minSpeed = 12;
@@ -30,7 +30,17 @@ public class Target : MonoBehaviour
         
     //Called when Target is Clicked
     private void OnMouseDown(){
-        Instantiate(particle, transform.position, Quaternion.identity);
+
+        if (EventSystem.current.IsPointerOverGameObject())
+        {
+            // Si oui, on arrête tout. On ne clique pas sur la cible.
+            return;
+        }
+
+        if (GameSettings.ShowParticles)
+        {
+            Instantiate(particle, transform.position, Quaternion.identity);
+        }
         Destroy(gameObject);
 
         if (isBad) GameManager.instance.UpdateLives(-1);
