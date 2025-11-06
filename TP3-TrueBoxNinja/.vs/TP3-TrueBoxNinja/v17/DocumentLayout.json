@@ -3,43 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jerom\\AppData\\LocalLow\\DefaultCompany\\TP3-TrueBoxNinja\\gamesave.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\course library\\_source_files\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\_source_files\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:Assets\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\dontdestroyonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\dontdestroyonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\scenenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\scenenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|c:\\users\\jerom\\documents\\ecole\\jeux video\\vraitp3\\tp3jeuvideo\\tp3-trueboxninja\\assets\\course library\\_source_files\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\_source_files\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|c:\\users\\jerom\\documents\\ecole\\jeux video\\vraitp3\\tp3jeuvideo\\tp3-trueboxninja\\assets\\pausepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\pausepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|c:\\users\\jerom\\documents\\ecole\\jeux video\\vraitp3\\tp3jeuvideo\\tp3-trueboxninja\\assets\\gamesettingspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\gamesettingspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\dontdestroyonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\dontdestroyonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:Assets\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\gamesettingspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\gamesettingspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\pausepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\pausepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\assets\\course library\\_source_files\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F2D83-8F01-FF45-0E8F-B4A1AA264EB9}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\_source_files\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,122 +46,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "gamesave.json",
-              "DocumentMoniker": "C:\\Users\\jerom\\AppData\\LocalLow\\DefaultCompany\\TP3-TrueBoxNinja\\gamesave.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\LocalLow\\DefaultCompany\\TP3-TrueBoxNinja\\gamesave.json",
-              "ToolTip": "C:\\Users\\jerom\\AppData\\LocalLow\\DefaultCompany\\TP3-TrueBoxNinja\\gamesave.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\LocalLow\\DefaultCompany\\TP3-TrueBoxNinja\\gamesave.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-05T00:07:46.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Target.cs",
               "DocumentMoniker": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\Course Library\\_Source_Files\\Scripts\\Target.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\_Source_Files\\Scripts\\Target.cs",
               "ToolTip": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\Course Library\\_Source_Files\\Scripts\\Target.cs",
               "RelativeToolTip": "Assets\\Course Library\\_Source_Files\\Scripts\\Target.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T23:11:22.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PausePanel.cs",
               "DocumentMoniker": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\PausePanel.cs",
               "RelativeDocumentMoniker": "Assets\\PausePanel.cs",
               "ToolTip": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\PausePanel.cs",
               "RelativeToolTip": "Assets\\PausePanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T21:45:02.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "GameSettingsPanel.cs",
               "DocumentMoniker": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\GameSettingsPanel.cs",
               "RelativeDocumentMoniker": "Assets\\GameSettingsPanel.cs",
               "ToolTip": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\GameSettingsPanel.cs",
               "RelativeToolTip": "Assets\\GameSettingsPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T21:05:17.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MenuManager.cs",
               "DocumentMoniker": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\MenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\MenuManager.cs",
               "ToolTip": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\MenuManager.cs",
               "RelativeToolTip": "Assets\\MenuManager.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwBAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T19:24:36.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SaveSystem.cs",
               "DocumentMoniker": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\SaveSystem.cs",
               "RelativeDocumentMoniker": "Assets\\SaveSystem.cs",
               "ToolTip": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\SaveSystem.cs",
               "RelativeToolTip": "Assets\\SaveSystem.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:38:05.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "GameSettings.cs",
               "DocumentMoniker": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\GameSettings.cs",
               "RelativeDocumentMoniker": "Assets\\GameSettings.cs",
               "ToolTip": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\GameSettings.cs",
               "RelativeToolTip": "Assets\\GameSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:03:36.988Z"
+              "WhenOpened": "2025-11-04T18:03:36.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "SceneNavigator.cs",
               "DocumentMoniker": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\SceneNavigator.cs",
               "RelativeDocumentMoniker": "Assets\\SceneNavigator.cs",
               "ToolTip": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\SceneNavigator.cs",
               "RelativeToolTip": "Assets\\SceneNavigator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T17:57:37.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "DontDestroyOnLoad.cs",
               "DocumentMoniker": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\DontDestroyOnLoad.cs",
               "RelativeDocumentMoniker": "Assets\\DontDestroyOnLoad.cs",
               "ToolTip": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\DontDestroyOnLoad.cs",
               "RelativeToolTip": "Assets\\DontDestroyOnLoad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T15:39:06.412Z"
+              "WhenOpened": "2025-11-04T15:39:06.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -174,7 +160,7 @@
               "RelativeDocumentMoniker": "Assets\\Course Library\\_Source_Files\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\jerom\\Documents\\ecole\\jeux video\\VraiTP3\\TP3JeuVideo\\TP3-TrueBoxNinja\\Assets\\Course Library\\_Source_Files\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Course Library\\_Source_Files\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwD4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T15:10:36.455Z",
               "EditorCaption": ""
